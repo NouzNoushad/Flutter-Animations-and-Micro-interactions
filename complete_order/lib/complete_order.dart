@@ -344,8 +344,8 @@ class TruckPainter extends CustomPainter {
 
     drawTopDoor(Offset truckOffset) {
       double i = topDoorMovement; // 90 ->  190
-      var x = truckOffset.dx - w * 0.14 + w * 0.09 * cos(i * pi / 180);
-      var y = truckOffset.dy - h * 0.05 + w * 0.09 * sin(i * pi / 180);
+      var x = truckOffset.dx - w * 0.14 + w * 0.11 * cos(i * pi / 180);
+      var y = truckOffset.dy - h * 0.05 + w * 0.11 * sin(i * pi / 180);
       canvas.drawLine(
           Offset(truckOffset.dx - w * 0.14, truckOffset.dy - h * 0.05),
           Offset(x, y),
@@ -357,8 +357,8 @@ class TruckPainter extends CustomPainter {
 
     drawBottomDoor(Offset truckOffset) {
       double i = bottomDoorMovement; // 270 -> 170
-      var x = truckOffset.dx - w * 0.14 + w * 0.09 * cos(i * pi / 180);
-      var y = truckOffset.dy + h * 0.05 + w * 0.09 * sin(i * pi / 180);
+      var x = truckOffset.dx - w * 0.14 + w * 0.11 * cos(i * pi / 180);
+      var y = truckOffset.dy + h * 0.05 + w * 0.11 * sin(i * pi / 180);
       canvas.drawLine(
           Offset(truckOffset.dx - w * 0.14, truckOffset.dy + h * 0.05),
           Offset(x, y),
