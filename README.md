@@ -9,3 +9,10 @@ A Collection of micro-intractions and animations using Flutter.
 |--|--|--|
 <img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/card_animation/card_animation.gif" height="500" alt="Screenshot"/> |<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/cat_mouse/cat_mouse.gif" height="500" alt="Screenshot"/>|<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/circadian_clock/circadian_clock.gif" height="500" alt="Screenshot"/>
 
+|[ Clock animation]( https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/clock_animation/lib)|[Complete order]( https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/complete_order/lib) |[Cool timer]( https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/cool_timer/lib)
+|--|--|--|
+<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/clock_animation/clock_animation.gif" height="500" alt="Screenshot"/> |<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/complete_order/complete_order.gif" height="500" alt="Screenshot"/>|<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/cool_timer/cool_timer.gif" height="500" alt="Screenshot"/>
+
+|[ Delete button](https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/delete_button/lib)|[ Devil login](https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/devil_login/lib) |[ Download arrow](https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/download_arrow/lib)
+|--|--|--|
+<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/delete_button/delete_button.gif" height="500" alt="Screenshot"/> |<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/devil_login/devil_login.gif" height="500" alt="Screenshot"/>|<img src="https://github.com/NouzNoushad/flutter_custompaint_animations/blob/master/download_arrow/downlod_arrow.gif" height="500" alt="Screenshot"/>
