@@ -1,5 +1,5 @@
 # Flutter Animations and Micro interactions
-An Attempt to create animations and micro-interactions found on Pinterest using Flutter.
+An attempt to create animations and micro-interactions found on Pinterest using Flutter.
 ### If you :heart: the effort then star :star: it.
 |[Arrow animation](https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/arrow_animation/lib)|[Black white]( https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/black_white/lib) |[ Bottom nav bar]( https://github.com/NouzNoushad/flutter_custompaint_animations/tree/master/bottom_nav/lib)
 |--|--|--|
